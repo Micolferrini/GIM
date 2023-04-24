@@ -3,7 +3,7 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 1A
 
-[acceso spento 2 frames](Esercizio_1A/template/acceso_spento_2.html)
+[acceso spento 2 frames](Esercizio_1A/template/acceso_spento_2.html)<br>
 [acceso spento 3 frames](Esercizio_1A/template/acceso_spento_3.html)
 [aperto chiuso 2 frames](Esercizio_1A/template/aperto_chiuso_2.html)
 [aperto chiuso 3 frames](Esercizio_1A/template/aperto_chiuso_3.html)

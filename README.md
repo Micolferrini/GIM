@@ -15,3 +15,8 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 1B
 
 [Dittico](Esercizio_1B/template/indexB.html)
+
+
+
+## Esercizio 2A
+[forma e senso](Esercizio_2A/template/index.html)

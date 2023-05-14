@@ -14,4 +14,4 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 1B
 
-[Dittico](Esercizio_1B/vento/template/IndexB.html)
+[Dittico](file:///Users/micolferrini/Desktop/GIM/Esercizio_1B/vento/template/indexB.html)

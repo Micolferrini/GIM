@@ -26,5 +26,5 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 3
 [disegno](Esercizio_3/1_disegno/index.html)
-[pong](Esercizio_3/2_pong/index.html)
+[pong](Esercizio_3/Esercizio_3/2_pong/index.html)
 

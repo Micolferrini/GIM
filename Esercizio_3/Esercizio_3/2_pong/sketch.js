@@ -10,18 +10,19 @@ let velocitàY
 
 
 function setup(){
-	createCanvas(600, 400)
+	createCanvas(windowWidth, windowHeight) //per adattare a schermo
+
 
 	posizioneX = width/2
 	posizioneY = height/2
-	velocitàX = random (-4, 4)
-	velocitàY = random (-4, 4)
-	background(200)
+	velocitàX = random (-6, 6)
+	velocitàY = random (-6, 6)
+	background(0)	
 }
 
 function draw(){
 	noStroke()
-	fill(random(200,255), random(100), random(100))
+	fill(random(250,250), random(250), random(250))
 
 	ellipse(posizioneX, posizioneY,  20,20)
 

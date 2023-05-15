@@ -20,3 +20,11 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 2A
 [forma e senso](Esercizio_2A/template/index.html)
+
+## Esercizio 2B
+[senso e movimento](Esercizio_2B/Composizione 1.mp4)
+
+## Esercizio 3
+[disegno](Esercizio_3/1_disegno/index.html)
+[pong](Esercizio_3/2_pong/index.html)
+

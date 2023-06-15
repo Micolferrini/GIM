@@ -25,7 +25,6 @@ Esercizi di Grafica in movimento (2023)
 [senso e movimento](Esercizio_2B/Senso_movimento/indexB.html)<br> 
 
 ## Esercizio 3
-[disegno](Esercizio_3/Esercizio_3/1_disegno/index.html)  
 
 [pong 1](Esercizio_3/Esercizio_3/2a_pong/index.html)<br> 
 [pong schiacciabile](Esercizio_3/Esercizio_3/2b_pong/index.html)

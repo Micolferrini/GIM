@@ -34,4 +34,5 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 4
 [orologio](Esercizio_4/Orologio_1/index.html)
+L’orologio realizzato è ridotto al minimo, le lancette vengono eliminate e le informazioni di tempo sono date: dallo spostamento del puntini piccoli per i secondi, dal pallino blu per i minuti e dal pallino, più grande, rosso per le ore. 
 
